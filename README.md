@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - Trying to improve my 📸 skills.
 
 ## 🌱 I’m currently learning ... and working with 🛠️
- - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) 
+ - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
+ - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
