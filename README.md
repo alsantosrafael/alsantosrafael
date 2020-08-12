@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📜 Software Engineering MBA student @ <a href="https://www.fiap.com.br/">FIAP</a> 🚧 ONGOING 🚀🚧
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
 - 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
-- 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 student @ <a href="https://rocketseat.com.br/">Rocketseat</a>
+- 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 Launchbase Bootcamp student @ <a href="https://rocketseat.com.br/">Rocketseat</a>
 - Improving my knowledge in Front End Development @ <a href="https://www.origamid.com/">Origamid</a>
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
 - I love spending my free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
