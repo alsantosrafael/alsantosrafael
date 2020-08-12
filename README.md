@@ -34,7 +34,6 @@ Here are some ideas to get you started:
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  
 ## How to find me... 🎯
----
 
 <a href="https://github.com/alsantosrafael/">
  <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/60659321?s=460&u=f7b85d61e01a491287fce14c7e9bc0ee74475cc8&v=4" width="100px;" alt=""/>
