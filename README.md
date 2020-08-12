@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 - 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
 - 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 student @ <a href="https://rocketseat.com.br/">Rocketseat</a>
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
+- I love spending my free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
+- Addicted to 🚴, 📚, 🎼 and to 🎬🍿.
+- Loves nature and learning new things.
+- Trying to improve my 📸 skills.
 
-## 🌱 I’m currently learning ... and also working with 🛠️
+## 🌱 I’m currently learning ... and working with 🛠️
  - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) 
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  
-## How to find me 🎯
+## How to find me... 🎯
 ---
 
 <a href="https://github.com/alsantosrafael/">
