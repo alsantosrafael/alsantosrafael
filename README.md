@@ -1,4 +1,4 @@
-# Oh, hello there 👋 It's me, Rafael!
+# Oh, hello there 👋! It's me, Rafael!
 ### Welcome to my Github 🥰
 #### Feel free to look around, contribute with me or just to talk with me 😅
 
