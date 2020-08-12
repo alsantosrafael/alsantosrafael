@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <sub><b>Rafael Almeida</b></sub></a> <a href="https://github.com/alsantosrafael" title="Github">🚀</a>
 
 
-Feito com ❤️ por Rafael Almeida 👋🏽 Entre em contato!
+Made with ❤️ by Rafael Almeida 👋🏽 Hit me up!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaalms/)](https://www.linkedin.com/in/rafaalms/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.profeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.profeng@gmail.com)](mailto:rafael.profeng@gmail.com)
