@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ... and working with 🛠️
  - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
- - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
+ - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
+ - ![ReactJS](https://img.shields.io/badge/-ReactJS-ff69b4)
+ - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  
 ## How to find me... 🎯
