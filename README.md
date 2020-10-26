@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Loves nature and learning new things.
 - Trying to improve my 📸 skills.
 
-## 🌱 I’m currently learning ... and working with 🛠️
+## 🌱 I’m currently learning ... and working 🛠️ with 
  - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
