@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Full Stack Web Developer @ <a href="https://www.qesh.ai/">Qesh Payments</a>
 - 📜 Software Engineering MBA student @ <a href="https://www.fiap.com.br/">FIAP</a> 🚧 ONGOING 🚀🚧
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
-- 📚 Currently improving my full stack skills @ <a href="https://rocketseat.com.br/">Rocketseat</a> 🚧 IN DEVELOPMENT 🚀🚧 GoStack Bootcamp student
+- 📚 Currently improving my full stack development skills @ <a href="https://rocketseat.com.br/">Rocketseat</a> 🚧 IN DEVELOPMENT 🚀🚧 GoStack Bootcamp student
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
 - Improving my knowledge in Front End Development @ <a href="https://www.origamid.com/">Origamid</a>
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
