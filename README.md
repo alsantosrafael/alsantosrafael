@@ -1,6 +1,6 @@
 # Oh, hello there 👋! It's me, Rafael!
 ### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
-#### Feel free to look around, contribute with me or just talk with me 😅
+#### Feel free to look around, contribute with me or just talk 😅
 
 <!--
 **alsantosrafael/alsantosrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
