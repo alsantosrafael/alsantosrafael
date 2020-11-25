@@ -1,6 +1,6 @@
 # Oh, hello there 👋! It's me, Rafael!
-### Welcome to my Github 🥰
-#### Feel free to look around, contribute with me or just to talk with me 😅
+### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
+#### Feel free to look around, contribute with me or just talk with me 😅
 
 <!--
 **alsantosrafael/alsantosrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
 - Loves spending free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
 - Addicted to 🚴, 📚, 🎼 and to 🎬🍿.
-- Loves nature and learning new things.
+- Loves nature 🌴🍂 and learning new things 🧠.
 - Trying to improve my 📸 and 👨🏻‍🍳 skills.
+- ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
 
 ## 🌱 I’m currently learning ... and working 🛠️ with 
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
