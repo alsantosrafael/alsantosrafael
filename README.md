@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
- - ![Express] (https://img.shields.io/badge/-Express-yellow)
+ - ![Express](https://img.shields.io/badge/-Express-yellow)
  
 ## How to find me... 🎯
 
