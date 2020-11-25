@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 👨🏻‍💼🦅
+- 👨‍💻 Full Stack Web Developer @ <a href="https://www.qesh.ai/">Qesh Payments</a>
 - 📜 Software Engineering MBA student @ <a href="https://www.fiap.com.br/">FIAP</a> 🚧 ONGOING 🚀🚧
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
-- 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
-- 👨‍💻 Full Stack Web Developer 🚧 IN DEVELOPMENT 🚀🚧 Launchbase Bootcamp student @ <a href="https://rocketseat.com.br/">Rocketseat</a>
+- 📚 Currently improving my full stack skills @ <a href="https://rocketseat.com.br/">Rocketseat</a> 🚧 IN DEVELOPMENT 🚀🚧 GoStack Bootcamp student
+- 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
 - Improving my knowledge in Front End Development @ <a href="https://www.origamid.com/">Origamid</a>
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
 - Loves spending free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
 - Addicted to 🚴, 📚, 🎼 and to 🎬🍿.
 - Loves nature and learning new things.
-- Trying to improve my 📸 skills.
+- Trying to improve my 📸 and 👨🏻‍🍳 skills.
 
 ## 🌱 I’m currently learning ... and working 🛠️ with 
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  
-## How to find me... 🎯
+## How to reach me... 🎯
 
 <a href="https://github.com/alsantosrafael/">
  <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/60659321?s=460&u=f7b85d61e01a491287fce14c7e9bc0ee74475cc8&v=4" width="100px;" alt=""/>
