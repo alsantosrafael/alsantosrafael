@@ -29,13 +29,15 @@ Here are some ideas to get you started:
 - Trying to improve my 📸 skills.
 
 ## 🌱 I’m currently learning ... and working 🛠️ with 
- - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
+ - ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
- - ![ReactJS](https://img.shields.io/badge/-ReactJS-ff69b4)
+ - ![React](https://img.shields.io/badge/-React-ff69b4)
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+ - ![Express] (https://img.shields.io/badge/-Express-yellow)
  
 ## How to find me... 🎯
 
