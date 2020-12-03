@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
 
 ## 🌱 I’m currently learning ... and working 🛠️ with 
- - ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
+ - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
