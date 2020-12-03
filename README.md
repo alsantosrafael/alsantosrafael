@@ -32,14 +32,17 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ... and working 🛠️ with 
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=orange)
+ - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![React](https://img.shields.io/badge/-React-ff69b4)
+ - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
- - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
- - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
+ - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+
+
  
 ## How to reach me... 🎯
 
