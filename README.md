@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 🦅
-- 👨‍💻 Full Stack Web Developer @ <a href="https://www.qesh.ai/">Qesh Payments</a>
+- 👨‍💻 Full Stack Developer @ <a href="https://www.qesh.ai/">Qesh Payments</a>
 - 📜 Software Engineering MBA student @ <a href="https://www.fiap.com.br/">FIAP</a> 🚧 ONGOING 🚀🚧
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
 - 📚 Currently improving my full stack development skills @ <a href="https://rocketseat.com.br/">Rocketseat</a> 🚧 IN DEVELOPMENT 🚀🚧 GoStack Bootcamp student
