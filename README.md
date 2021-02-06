@@ -41,6 +41,9 @@ Here are some ideas to get you started:
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
+ - ![Dart](https://img.shields.io/badge/-Dart%20-9cf)
+ - ![Flutter](https://img.shields.io/badge/-Flutter-6699ff)
 
 
  
