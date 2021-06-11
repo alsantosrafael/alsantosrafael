@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 🦅
-- 👨‍💻 Full Stack Developer @ <a href="https://natahouse.com/">Nata.House</a>
+- 👨‍💻 Full Stack Developer @ <a href="https://natahouse.com/">nata.house</a>
 - 📜 Software Engineering MBA from <a href="https://www.fiap.com.br/">FIAP</a>
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
-- Improving my knowledge in Front End Development @ <a href="https://www.origamid.com/">Origamid</a>
 - ✈️🌍 Studied Electrical Engineering abroad in Germany @ <a href="https://www.fau.eu/">Friedrich-Alexander-Universität Erlangen - Nürnberg</a>
 - Loves spending free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
 - Addicted to 🚴, 📚, 🎼 and to 🎬🍿.
