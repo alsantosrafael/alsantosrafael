@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 🦅
-- 👨‍💻 Full Stack Developer @ <a href="https://natahouse.com/">nata.house</a>
+- 👨‍💻 Mid Full Stack Developer @ <a href="https://www.meliuz.com.br/inicio">Méliuz</a>
 - 📜 Software Engineering MBA from <a href="https://www.fiap.com.br/">FIAP</a>
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
- - ![Dart](https://img.shields.io/badge/-Dart%20-9cf)
- - ![Flutter](https://img.shields.io/badge/-Flutter-6699ff)
 
 
  
