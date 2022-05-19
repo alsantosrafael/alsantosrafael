@@ -2,6 +2,8 @@
 ### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
 #### Feel free to look around, contribute with me or just talk 😅
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alsantosrafael&label=Profile%20views&color=DB7093&style=flat" alt="alsantosrafael" /> </p>
+
 <!--
 **alsantosrafael/alsantosrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alsantosrafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## About me 🦅
 - 👨‍💻 Mid Full Stack Developer @ <a href="https://www.meliuz.com.br/inicio">Méliuz</a>
