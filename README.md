@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alsantosrafael&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## About me 🦅
-- 👨‍💻 Mid Full Stack Developer @ <a href="https://www.meliuz.com.br/inicio">Méliuz</a>
+- 👨‍💻 Senior software engineer @ <a href="https://www.elo.com.br/">Cartão Elo</a>
 - 📜 Software Engineering MBA from <a href="https://www.fiap.com.br/">FIAP</a>
 - 👨🏻‍🎓 BSc. in Eletrical Engineering 👷🏻⚡ from <a href="https://www.cefetmg.br/">CEFET-MG</a>
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
