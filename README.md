@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - Trying to improve my 📸 and 👨🏻‍🍳 skills.
 - ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
 
-## 🌱 I’m currently learning ... and working 🛠️ with 
+## 🌱 I’m currently learning ... and working 🛠️ with
+ - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
