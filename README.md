@@ -2,24 +2,6 @@
 ### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
 #### Feel free to look around, contribute with me or just talk 😅
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alsantosrafael&label=Profile%20views&color=DB7093&style=flat" alt="alsantosrafael" /> </p>
-
-<!--
-**alsantosrafael/alsantosrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alsantosrafael&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## About me 🦅
 - 👨‍💻 Senior software engineer @ <a href="https://pagseguro.uol.com.br/">PagBank</a>
 - 📜 Software Engineering MBA from <a href="https://www.fiap.com.br/">FIAP</a>
@@ -33,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
 
 ## 🌱 I’m currently learning ... and working 🛠️ with
- - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=red)
- - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
- - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
- - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
- - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
- - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
- - ![React](https://img.shields.io/badge/-React-ff69b4)
- - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
- - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
- - ![Express](https://img.shields.io/badge/-Express-yellow)
- - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
- - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
 
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=red) ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=orange) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F) ![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-59666C) ![JDBC](https://img.shields.io/badge/-JDBC-4479A1) ![OracleDB](https://img.shields.io/static/v1?label=&message=OracleDB&color=darkred) ![Docker](https://img.shields.io/badge/-Docker-2496ED) ![Docker-Compose](https://img.shields.io/badge/-Docker--Compose-0db7ed) ![Kafka](https://img.shields.io/badge/-Kafka-231F20) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4) ![AWS](https://img.shields.io/badge/-AWS-FF9900) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen) ![React](https://img.shields.io/badge/-React-ff69b4) ![React Native](https://img.shields.io/badge/-React%20Native-9cf) ![Express](https://img.shields.io/badge/-Express-yellow) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue) ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red) 
 
- 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alsantosrafael&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsantosrafael&theme=radical" alt="streak" />
+</p>
+
+---
+
 ## How to reach me... 🎯
 
 <a href="https://github.com/alsantosrafael/">
