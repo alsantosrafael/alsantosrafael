@@ -21,10 +21,10 @@ I’m a Senior Software Engineer with 5+ years of experience building scalable, 
 ## 🛠️ Tech Stack & Specialties
 
 **Languages & Frameworks:**  
-Java (8–21), Kotlin, Python, TypeScript, NextJS, Spring Boot, React Native
+Java (8–21), Kotlin, Python, TypeScript, React, Spring Boot, React Native, FastAPI
 
 **Cloud & DevOps:**  
-AWS (SQS, S3, Lambda, EC2), Docker, Kubernetes, Terraform, Jenkins
+AWS (SNS, SQS, S3, EC2, CloudWatch), Docker, Kubernetes, Terraform, Jenkins
 
 **Data & Messaging:**  
 PostgreSQL, OracleDB, Redis, Apache Kafka
@@ -52,7 +52,7 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 ## 🌱 Currently Learning & Exploring
 
 - Advanced Kubernetes & Containers (LinuxTips)
-- Machine Learning, Prompt Engineering, LLMs
+- Machine Learning, Prompt Engineering, LLMs enthusiast
 - Observability, System Design, and Event-Driven Architectures
 
 ---
