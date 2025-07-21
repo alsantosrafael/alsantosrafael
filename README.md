@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Rafael Almeida
+# 👋 Hey, How is it goin'? My name is Rafael!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rafaalms)
 [![GitHub](https://img.shields.io/badge/GitHub-alsantosrafael-black?logo=github&style=flat-square)](https://github.com/alsantosrafael)
-[![Location](https://img.shields.io/badge/Belo%20Horizonte-MG-green?style=flat-square)](https://www.google.com/maps/place/Belo+Horizonte)
+[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-@rafaalms-black?style=flat-square&logo=x)](https://x.com/rafaalms)
 
 ---
 
