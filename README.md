@@ -57,15 +57,6 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alsantosrafael&show_icons=true&theme=radical" alt="Rafael's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsantosrafael&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
 ## 🧑‍💻 Featured Projects
 
 - [**travel-saga**](https://github.com/alsantosrafael/travel-saga): Distributed system simulating trip reservations using the saga orchestrated pattern (Java)
