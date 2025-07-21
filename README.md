@@ -1,64 +1,108 @@
-# Oh, hello there 👋! It's me, Rafael!
+# 👋 Hi, I’m Rafael Almeida
 
-### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rafaalms)
+[![GitHub](https://img.shields.io/badge/GitHub-alsantosrafael-black?logo=github&style=flat-square)](https://github.com/alsantosrafael)
+[![Location](https://img.shields.io/badge/Belo%20Horizonte-MG-green?style=flat-square)](https://www.google.com/maps/place/Belo+Horizonte)
 
-#### Feel free to look around, contribute with me or just talk 😅
+---
 
-## About me 🦅
+## 🚀 About Me
 
-- 👨‍💻 Senior software engineer @ [PagBank](https://pagseguro.uol.com.br/)
-- 📜 Software Engineering MBA from [FIAP](https://www.fiap.com.br/)
-- 👨🏻‍🎓 BSc. in Electrical Engineering 👷🏻⚡ from [CEFET-MG](https://www.cefetmg.br/)
-- 📚 Former Full Stack Web Developer student @ [Cubos Academy](https://www.cubos.academy/)
-- ✈️🌍 Studied Electrical Engineering abroad in Germany @ [Friedrich-Alexander-Universität Erlangen - Nürnberg](https://www.fau.eu/)
-- Loves spending free time surrounded by friends, getting to know new people, new cultures and travelling around the globe.
-- Addicted to 🚴, 📚, 🎼 and to 🎬🍿.
-- Loves nature 🌴🍂 and learning new things 🧠.
-- Trying to improve my 📸 and 👨🏻‍🍳 skills.
-- ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
+I’m a Senior Software Engineer with 5+ years of experience building scalable, resilient systems for fintech, banking, and digital platforms. I thrive on solving complex problems, leading teams, and driving innovation—whether it’s optimizing distributed architectures, modernizing legacy systems, or mentoring the next generation of engineers.
 
-## 🌱 I'm currently learning ... and working 🛠️ with
+- 🏦 **Current:** Senior Software Engineer @ PagBank (Digital Bank)
+- 🏆 **Awards:** 2nd place, PagBank Hackathon (AI-Driven CI/CD); 2nd place, FIAP Startup Competition
+- 🌍 **Languages:** English (C1), German (C1), Portuguese (Native)
+- 🎓 **Education:** MBA in Software Engineering (FIAP), BSc. in Electrical Engineering (CEFET-MG), International Studies (FAU Erlangen, Germany)
+- 🤝 **Open to:** Senior/Staff Engineer, Tech Lead, and Consulting roles (Remote or Hybrid)
 
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=red) 
-![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=orange) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F) 
-![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-59666C) 
-![JDBC](https://img.shields.io/badge/-JDBC-4479A1) 
-![OracleDB](https://img.shields.io/static/v1?label=&message=OracleDB&color=darkred) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED) 
-![Docker-Compose](https://img.shields.io/badge/-Docker--Compose-0db7ed) 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5) 
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4) 
-![AWS](https://img.shields.io/badge/-AWS-FF9900) 
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) 
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
-![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue) 
-![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen) 
-![React](https://img.shields.io/badge/-React-ff69b4) 
-![React Native](https://img.shields.io/badge/-React%20Native-9cf) 
-![Express](https://img.shields.io/badge/-Express-yellow) 
-![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue) 
-![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
+---
+
+## 🛠️ Tech Stack & Specialties
+
+**Languages & Frameworks:**  
+Java (8–21), Kotlin, Python, TypeScript, NextJS, Spring Boot, React Native
+
+**Cloud & DevOps:**  
+AWS (SQS, S3, Lambda, EC2), Docker, Kubernetes, Terraform, Jenkins
+
+**Data & Messaging:**  
+PostgreSQL, OracleDB, Redis, Apache Kafka
+
+**Architecture:**  
+Microservices, Event-Driven, DDD, TDD, API Design, Observability, Performance Tuning
+
+**Other:**  
+Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, RAG
+
+---
+
+## 💡 What I’m Proud Of
+
+- **Accelerated Delivery:** Led a delayed project to completion, reducing delivery time from months to days and building a high-performing team culture.
+- **Legacy Modernization:** Migrated core banking apps to Java 21, eliminating vulnerabilities and boosting performance with virtual threads.
+- **Developer Experience:** Built internal tools and platforms to speed up homologation, bug identification, and load testing.
+- **Cloud Cost Savings:** Reduced third-party event charges by 10% and cloud costs by 2% through smart architecture and optimization.
+- **Security & Quality:** Implemented company-wide API security standards and achieved 90%+ test coverage.
+- **Hackathon Winner:** Developed an AI-driven CI/CD solution to catch data modeling issues before production.
+- **International Collaboration:** Designed and launched an Insurance-as-a-Service system in Miami, opening new revenue streams for Méliuz.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced Kubernetes & Containers (LinuxTips)
+- Machine Learning, Prompt Engineering, LLMs
+- Observability, System Design, and Event-Driven Architectures
+
+---
 
 ## 📈 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsantosrafael&show_icons=true&theme=radical)
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsantosrafael&show_icons=true)
-
----
-
-## How to reach me... 🎯
-
-[![Rafael Almeida](https://github.com/alsantosrafael.png?size=100)](https://github.com/alsantosrafael/)
-
-**Rafael Almeida** 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alsantosrafael&show_icons=true&theme=radical" alt="Rafael's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsantosrafael&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
-Made with ❤️ by Rafael Almeida 👋🏽 Hit me up!
+## 🧑‍💻 Featured Projects
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaalms/)](https://www.linkedin.com/in/rafaalms/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.profeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.profeng@gmail.com)](mailto:rafael.profeng@gmail.com)
+- [**travel-saga**](https://github.com/alsantosrafael/travel-saga): Distributed system simulating trip reservations using the saga orchestrated pattern (Java)
+- [**survey-clean-api**](https://github.com/alsantosrafael/survey-clean-api): DDD, TDD, Clean Architecture, NodeJS, MongoDB (TypeScript)
+- [**raglite-hackathon**](https://github.com/alsantosrafael/raglite-hackathon): RAG for hackathons (Python)
+- [**ground-control**](https://github.com/alsantosrafael/ground-control): Product feature control platform (Kotlin)
+
+---
+
+## 🏅 Notable Achievements
+
+- **PagBank:** Awarded 2nd place in internal hackathon for an AI-Driven CI/CD solution; led workshops on Observability, Testing, and System Design; mentored developers and built a high-performing team.
+- **Cartão Elo:** Designed and implemented a company-wide Design System Library; modernized legacy platforms, reducing lead time and improving UX.
+- **Méliuz:** Launched an international Insurance-as-a-Service system; delivered security features (MFA, OTP, Recaptcha); reduced cloud costs and improved system reliability.
+- **Startups:** Built core features for e-commerce and fintech platforms; implemented SEO and event-driven architectures; delivered high test coverage and robust solutions.
+
+---
+
+## 🤝 Let’s Connect!
+
+- 💬 I love talking about distributed systems, developer experience, and all things tech.
+- 🌎 Always up for meeting new people, learning new cultures, and sharing ideas.
+- 📫 [rafael.profeng@gmail.com](mailto:rafael.profeng@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaalms)
+
+---
+
+## ⚡ Fun Facts
+
+- I see fun where people see challenges.
+- I can move my ears with the bare power of my mind 🤯
+- Addicted to 🚴, 📚, 🎼, and 🎬🍿.
+- Nature lover, amateur chef, and always learning something new.
+
+---
+
+> “I find joy in solving problems and coming up with new ideas. Let’s build something awesome together!”
+
+---
+
+*Made with ❤️ by Rafael Almeida. If you want to build something impactful, let’s talk!*
