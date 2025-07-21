@@ -69,8 +69,8 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 ## 🧑‍💻 Featured Projects
 
 - [**travel-saga**](https://github.com/alsantosrafael/travel-saga): Distributed system simulating trip reservations using the saga orchestrated pattern (Java)
-- [**survey-clean-api**](https://github.com/alsantosrafael/survey-clean-api): DDD, TDD, Clean Architecture, NodeJS, MongoDB (TypeScript)
-- [**raglite-hackathon**](https://github.com/alsantosrafael/raglite-hackathon): RAG for hackathons (Python)
+- [**survey-clean-api**](https://github.com/alsantosrafael/survey-clean-api): DDD, TDD, Clean Architecture, NodeJS (TypeScript)
+- [**raglite-hackathon**](https://github.com/alsantosrafael/raglite-hackathon): RAG for a hackathon (Python)
 - [**ground-control**](https://github.com/alsantosrafael/ground-control): Product feature control platform (Kotlin)
 
 ---
