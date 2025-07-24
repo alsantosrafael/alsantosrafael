@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rafaalms)
 [![GitHub](https://img.shields.io/badge/GitHub-alsantosrafael-black?logo=github&style=flat-square)](https://github.com/alsantosrafael)
 [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-@rafaalms-black?style=flat-square&logo=x)](https://x.com/rafaalms)
+[![Blog](https://img.shields.io/badge/Blog-Coding%20Hill-4CAF50?logo=google-chrome&style=flat-square)](https://alsantosrafael.github.io/coding-hill/)
 
 ---
 
