@@ -45,8 +45,8 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 - **Developer Experience:** Built internal tools and platforms to speed up homologation, bug identification, and load testing.
 - **Cloud Cost Savings:** Reduced third-party event charges by 10% and cloud costs by 2% through smart architecture and optimization.
 - **Security & Quality:** Implemented company-wide API security standards and achieved 90%+ test coverage.
-- **Hackathon Winner:** Developed an AI-driven CI/CD solution to catch data modeling issues before production.
-- **International Collaboration:** Designed and launched an Insurance-as-a-Service system in Miami, opening new revenue streams for Méliuz.
+- **Hackathon 🥈 place:** Developed an AI-driven CI/CD solution to catch data modeling issues before production.
+- **International Collaboration:** Designed an Insurance-as-a-Service system in Miami, opening new revenue streams for Méliuz.
 
 ---
 
