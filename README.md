@@ -53,17 +53,19 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 ## 🌱 Currently Learning & Exploring
 
 - Advanced Kubernetes & Containers (LinuxTips)
-- Machine Learning, Prompt Engineering, LLMs enthusiast
-- Observability, System Design, and Event-Driven Architectures
+- Software Architecture
+- Observability and Devops automation tooling
+
 
 ---
 
 ## 🧑‍💻 Featured Projects
 
 - [**travel-saga**](https://github.com/alsantosrafael/travel-saga): Distributed system simulating trip reservations using the saga orchestrated pattern (Java)
-- [**survey-clean-api**](https://github.com/alsantosrafael/survey-clean-api): DDD, TDD, Clean Architecture, NodeJS (TypeScript)
-- [**raglite-hackathon**](https://github.com/alsantosrafael/raglite-hackathon): RAG for a hackathon (Python)
+- [**raglite-hackathon**](https://github.com/alsantosrafael/raglite-hackathon): RAG for a hackathon I took part (Python)
 - [**ground-control**](https://github.com/alsantosrafael/ground-control): Product feature control platform (Kotlin)
+- [**db-guardian**](https://github.com/alsantosrafael/db-guardian): Smart assessment of your DB-related files (Kotlin)
+- [**logpie**](https://github.com/alsantosrafael/logpie): An async lightweight log plataform with masking compliant features ready to be plugged in(Python)
 
 ---
 
