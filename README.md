@@ -25,7 +25,7 @@ I’m a Senior Software Engineer with 5+ years of experience building scalable, 
 Java (8–21), Kotlin, Python, TypeScript, React, Spring Boot, React Native, FastAPI
 
 **Cloud & DevOps:**  
-AWS (SNS, SQS, S3, EC2, CloudWatch), Docker, Kubernetes, Terraform, Jenkins
+AWS (SNS, SQS, S3, EC2, EKS, CloudWatch), Docker, Kubernetes, Terraform, Jenkins
 
 **Data & Messaging:**  
 PostgreSQL, OracleDB, Redis, Apache Kafka
@@ -53,8 +53,8 @@ Cost Optimization, Test Automation, Machine Learning, Prompt Engineering, LLMs, 
 ## 🌱 Currently Learning & Exploring
 
 - Advanced Kubernetes & Containers (LinuxTips)
-- Software Architecture
-- Observability and Devops automation tooling
+- Software Architecture and System Design
+- Observability and Devops automation tooling with Python (LinuxTips)
 
 
 ---
